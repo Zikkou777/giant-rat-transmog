@@ -34,7 +34,7 @@ import net.runelite.client.plugins.PluginDescriptor;
 @Slf4j
 @PluginDescriptor(
 	name = "Giant Rat Transmog",
-	description = "Finally, the endgame content we've all been waiting for. Become the most feared level-3 monster in Lumbridge.",
+	description = "Your friends can be rats, you are a rat, everyone is a rat. That's the plugin.",
 	tags = {"transmog", "rat", "model", "fun", "cosmetic"}
 )
 public class GiantRatPlugin extends Plugin
